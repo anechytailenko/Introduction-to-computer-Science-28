@@ -6,3 +6,5 @@ Some changes from remote
 
 
 Do not modify - practice conflicts
+
+HELLO from loaded repo
